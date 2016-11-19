@@ -6,4 +6,5 @@ ThirdEdit
 2repo add 4
 2repo add 5
 2repo add 6
-1repo 6to72repo add 7
+1repo 6to7
+2repo add 7
